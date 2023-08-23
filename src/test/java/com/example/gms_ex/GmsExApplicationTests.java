@@ -10,4 +10,7 @@ class GmsExApplicationTests {
     void contextLoads() {
     }
 
+    void te(){
+        System.out.println(6);
+    }
 }
