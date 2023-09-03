@@ -15,5 +15,6 @@ class GmsExApplicationTests {
         System.out.println(7);
         System.out.println("master test");
 
+        System.out.println("hot-fix test!");
     }
 }
